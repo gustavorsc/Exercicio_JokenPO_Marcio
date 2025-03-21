@@ -3,7 +3,7 @@
 Este é um aplicativo desenvolvido em Flutter que implementa o clássico jogo Pedra, Papel e Tesoura. O usuário pode jogar contra a máquina de forma interativa, testando suas habilidades e sorte.
 
 ## 🎥 Demonstração
-Para visualizar a demonstração do jogo, acesse o vídeo localizado na pasta `/images/video.gif`.
+![Demonstração do App](images/video.gif)
 
 ## 🚀 Tecnologias Utilizadas
 - **Flutter** - Framework para desenvolvimento multiplataforma
