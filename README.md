@@ -1,19 +1,22 @@
-# jokenPo
+# 🪨📜✂️ JokenPo - Pedra, Papel e Tesoura
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Este é um aplicativo desenvolvido em Flutter que implementa o clássico jogo Pedra, Papel e Tesoura. O usuário pode jogar contra a máquina de forma interativa, testando suas habilidades e sorte.
 
-## Getting Started
+## 🎥 Demonstração
+Para visualizar a demonstração do jogo, acesse o vídeo localizado na pasta `/images/video.gif`.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias Utilizadas
+- **Flutter** - Framework para desenvolvimento multiplataforma
+- **Dart** - Linguagem de programação utilizada no Flutter
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## 🕹️ Como Jogar
+Escolha entre Pedra, Papel ou Tesoura.
+O aplicativo fará uma jogada aleatória.
+O resultado será exibido, informando se você venceu, perdeu ou empatou.
+Jogue quantas vezes quiser e divirta-se!
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+## ✨ Recursos Adicionais
+Interface amigável e intuitiva.
+Responsividade para diferentes dispositivos.
+Animações suaves para tornar a experiência mais interativa.
